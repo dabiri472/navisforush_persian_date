@@ -95,7 +95,7 @@ GPL v2 or later
 ## 👨‍💻 توسعه‌دهنده
 
 - **نام:** ALI
-- **GitHub:** [dabiri472/WordPressFresh](https://github.com/dabiri472/NavisForush)
+- **GitHub:** [ddabiri472/NavisForush](https://github.com/dabiri472/NavisForush)
 - **نسخه:** 1.0.0
 
 ## 🤝 مشارکت
